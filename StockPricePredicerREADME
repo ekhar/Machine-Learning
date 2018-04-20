@@ -1,0 +1,2 @@
+This stock price predicter uses basic Linear Regression with SciPy to make its predictions, and Matplotlib is used to display data. 
+Start dates and end dates for information aswell as company ticker symbol can easily be changed.
